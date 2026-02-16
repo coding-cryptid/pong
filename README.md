@@ -1,5 +1,5 @@
 # Pong w/ Pygame 🏓
-## About!
+## About This Project:
 👾 This project was built with Python/Pygame. The left paddle is controlled by using keys w(UP) and s(DOWN).  The right paddle is controlled with the up and down arrows.  Can be played single player but is more fun with a friend!
 
 ## How I Build It:
